@@ -404,7 +404,7 @@ G2L["34"]["TextSize"] = 14;
 G2L["34"]["TextColor3"] = Color3.fromRGB(0, 0, 0);
 G2L["34"]["Size"] = UDim2.new(0.4410480558872223, 0, 0.785714328289032, 0);
 G2L["34"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["34"]["Text"] = [[BY SHADOWBLADE ON YOUTUBE | WE LOVE KJ]];
+G2L["34"]["Text"] = [[BY @SHADOWBLADE803 ON YOUTUBE]];
 G2L["34"]["Name"] = [[Title]];
 G2L["34"]["BackgroundTransparency"] = 1;
 G2L["34"]["Position"] = UDim2.new(0.03711787238717079, 0, 0.1250000149011612, 0);
@@ -1486,7 +1486,7 @@ local script = G2L["f"];
 				end
 			end 
 		end
-		spam("125372451683544")
+		spam("114497905382921")
 	end)
 	
 	coroutine.wrap(ZYJPOKE_fake_script)()
